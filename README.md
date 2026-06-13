@@ -87,5 +87,6 @@ I am actively seeking:
 ## Contact
 
 GitHub: https://github.com/rateshwari
+LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/
 
 Thank you for visiting my profile.
