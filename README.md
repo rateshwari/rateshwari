@@ -1,24 +1,24 @@
 # Hi, I'm Rateshwari Shakthivel
 
-Final Year B.Tech Student in Artificial Intelligence & Data Science
-Navi Mumbai, India
+Final Year B.Tech Student in Artificial Intelligence & Data Science based in Navi Mumbai, India.
 
-I am passionate about building technology that addresses real-world challenges through Artificial Intelligence, Full-Stack Development, and Human-Centered Design. I enjoy transforming ideas into practical solutions that create meaningful impact.
+I enjoy building AI-powered products and full-stack applications that solve real-world problems, improve everyday experiences, and create meaningful social impact.
 
-## Areas of Interest
 
-* Generative AI
-* Artificial Intelligence & Machine Learning
-* Full-Stack Development
-* Data Science
-* Human-Centered Design
-* AI for Social Impact
+## What I'm Passionate About
+
+- Building AI products that create meaningful social impact.
+- Designing intuitive user experiences.
+- Transforming ideas into deployable applications.
+- Exploring Agentic AI and production-grade systems.
 
 ## Featured Projects
 
 ### NayePankh Saathi
 
-An AI-powered multilingual community support chatbot developed for NayePankh Foundation to help users access information related to education, scholarships, food assistance, women's health, and donation guidance.
+An AI-powered multilingual community support chatbot built for NayePankh Foundation to help underserved communities access information related to scholarships, food assistance, women's health, and donation guidance.
+
+The application was independently designed, developed, and deployed as a production-ready web solution using modern full-stack technologies, with support for multilingual interactions and domain-specific assistance.
 
 **Live Demo:** https://nayepankh-saathi.vercel.app/
 
@@ -30,43 +30,39 @@ An AI-powered multilingual community support chatbot developed for NayePankh Fou
 
 ### Queue Cure
 
-A healthcare queue management solution designed to reduce patient waiting time and improve accessibility to healthcare services through intelligent scheduling and real-time updates.
+An intelligent healthcare queue management platform designed to reduce patient waiting times and improve access to healthcare services.
+
+The system focuses on optimizing patient flow through real-time queue updates, digital token management, and estimated waiting times, helping both healthcare providers and patients experience a more efficient process.
+
+**Status:** Prototype
+
+**Technologies:** Full-Stack Development, Real-Time Updates, User-Centered Design
 
 ---
 
 ### LifeOS Student Agent
 
-An AI-powered student productivity assistant focused on helping learners organize tasks, manage academic responsibilities, and improve efficiency.
+An AI-powered student productivity assistant built to help learners manage academic responsibilities more effectively.
 
-## Technical Skills
+The platform assists students in organizing tasks, tracking goals, prioritizing activities, and improving productivity through intelligent recommendations and personalized support.
 
-**Programming Languages**
+**Status:** In Development
 
-* Python
-* JavaScript
-* TypeScript
+**Focus Areas:** Productivity, Agentic AI, Student Experience
 
-**Frameworks & Libraries**
 
-* React
-* Next.js
-* Tailwind CSS
-* Node.js
-* Express.js
+## Tech Stack
 
-**AI & Data**
+**Languages:** Python • JavaScript • TypeScript
 
-* Gemini API
-* Prompt Engineering
-* Machine Learning Fundamentals
-* Data Analysis
+**Frontend:** React • Next.js • Tailwind CSS
 
-**Tools & Platforms**
+**Backend & Deployment:** Node.js • Vercel
 
-* Git
-* GitHub
-* Vercel
-* VS Code
+**AI & Data:** Gemini API • Prompt Engineering • Machine Learning
+
+**Tools:** Git • GitHub
+
 
 ## Currently Exploring
 
@@ -77,16 +73,22 @@ An AI-powered student productivity assistant focused on helping learners organiz
 
 ## Open To Opportunities
 
-I am actively seeking:
+I am currently open to:
 
-* Internship Opportunities
-* Job Roles
-* Research Collaborations
-* Opportunities to build technology with social impact
+- Full-Time Graduate Roles
+- Internship Opportunities
+- Research Collaborations
+- Projects focused on social impact and AI innovation
 
 ## Let's Connect
 
  GitHub: https://github.com/rateshwari
 
 LinkedIn: https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/
-Thank you for visiting my profile.
+
+
+I'm always excited to connect with people who are passionate about technology, innovation, and creating meaningful impact through AI.
+
+If you'd like to collaborate, discuss ideas, or simply connect, feel free to reach out.
+
+Let's build something that matters.
