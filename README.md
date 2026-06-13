@@ -84,9 +84,9 @@ I am actively seeking:
 * Research Collaborations
 * Opportunities to build technology with social impact
 
-## Contact
+## Let's Connect
 
-GitHub: https://github.com/rateshwari
-LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/
+ GitHub: https://github.com/rateshwari
 
+LinkedIn: https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/
 Thank you for visiting my profile.
