@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi, I'm Rateshwari Shakthivel
 
-<!--
-**rateshwari/rateshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year B.Tech Student in Artificial Intelligence & Data Science
+Navi Mumbai, India
 
-Here are some ideas to get you started:
+I am passionate about building technology that addresses real-world challenges through Artificial Intelligence, Full-Stack Development, and Human-Centered Design. I enjoy transforming ideas into practical solutions that create meaningful impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+* Generative AI
+* Artificial Intelligence & Machine Learning
+* Full-Stack Development
+* Data Science
+* Human-Centered Design
+* AI for Social Impact
+
+## Featured Projects
+
+### NayePankh Saathi
+
+An AI-powered multilingual community support chatbot developed for NayePankh Foundation to help users access information related to education, scholarships, food assistance, women's health, and donation guidance.
+
+**Live Demo:** https://nayepankh-saathi.vercel.app/
+
+**Repository:** https://github.com/rateshwari/nayepankh-saathi
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Gemini API, Vercel
+
+---
+
+### Queue Cure
+
+A healthcare queue management solution designed to reduce patient waiting time and improve accessibility to healthcare services through intelligent scheduling and real-time updates.
+
+---
+
+### LifeOS Student Agent
+
+An AI-powered student productivity assistant focused on helping learners organize tasks, manage academic responsibilities, and improve efficiency.
+
+## Technical Skills
+
+**Programming Languages**
+
+* Python
+* JavaScript
+* TypeScript
+
+**Frameworks & Libraries**
+
+* React
+* Next.js
+* Tailwind CSS
+* Node.js
+* Express.js
+
+**AI & Data**
+
+* Gemini API
+* Prompt Engineering
+* Machine Learning Fundamentals
+* Data Analysis
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* Vercel
+* VS Code
+
+## Currently Exploring
+
+* Agentic AI Systems
+* Applied Generative AI
+* Building Production-Ready AI Applications
+* Scalable Full-Stack Architectures
+
+## Open To Opportunities
+
+I am actively seeking:
+
+* Internship Opportunities
+* Job Roles
+* Research Collaborations
+* Opportunities to build technology with social impact
+
+## Contact
+
+GitHub: https://github.com/rateshwari
+
+Thank you for visiting my profile.
