@@ -51,8 +51,6 @@ The system features a receptionist dashboard, patient waiting-room display, live
 
 ---
 
----
-
 ### LifeOS Student Agent
 
 An AI-powered student productivity assistant built to help learners manage academic responsibilities more effectively.
@@ -70,9 +68,9 @@ The platform assists students in organizing tasks, tracking goals, prioritizing 
 
 **Frontend:** React • Next.js • Tailwind CSS
 
-**Backend & Deployment: Node.js • Express.js • Vercel • Railway
+**Backend & Deployment:** Node.js • Express.js • Vercel • Railway
 
-**AI & Data: Gemini API • Prompt Engineering • Machine Learning • Supabase
+**AI & Data:** Gemini API • Prompt Engineering • Machine Learning • Supabase
 
 **Tools:** Git • GitHub
 
