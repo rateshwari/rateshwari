@@ -28,15 +28,28 @@ The application was independently designed, developed, and deployed as a product
 
 ---
 
-### Queue Cure
+### 🏥 Queue Cure
 
-An intelligent healthcare queue management platform designed to reduce patient waiting times and improve access to healthcare services.
+A real-time digital clinic queue management system designed to improve patient transparency and streamline reception workflows in neighborhood clinics.
 
-The system focuses on optimizing patient flow through real-time queue updates, digital token management, and estimated waiting times, helping both healthcare providers and patients experience a more efficient process.
+Queue Cure replaces traditional paper token systems with synchronized digital experiences for both receptionists and patients. The platform provides live queue updates, digital token management, estimated waiting times, and real-time display synchronization using Socket.IO.
 
-**Status:** Prototype
+The system features a receptionist dashboard, patient waiting-room display, live queue synchronization, and configurable consultation times to improve operational efficiency and reduce patient uncertainty.
 
-**Technologies:** Full-Stack Development, Real-Time Updates, User-Centered Design
+**Live Demo:**
+
+* Reception Dashboard: https://queue-cure-six.vercel.app/reception
+* Patient Display Dashboard: https://queue-cure-six.vercel.app/dashboard
+
+**Repository:** https://github.com/rateshwari/queue-cure
+
+**Status:** Live Full-Stack Application
+
+**Technologies:** Next.js, TypeScript, Express.js, Socket.IO, Supabase, Tailwind CSS
+
+**Focus Areas:** Real-Time Systems, Healthcare Technology, Full-Stack Development, User-Centered Design
+
+---
 
 ---
 
