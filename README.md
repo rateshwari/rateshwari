@@ -81,8 +81,9 @@ The platform assists students in organizing tasks, tracking goals, prioritizing 
 
 * Agentic AI Systems
 * Applied Generative AI
-* Building Production-Ready AI Applications
-* Scalable Full-Stack Architectures
+* Real-Time Full-Stack Applications
+* Healthcare Technology Solutions
+* Scalable System Design
 
 ## Open To Opportunities
 
@@ -92,6 +93,9 @@ I am currently open to:
 - Internship Opportunities
 - Research Collaborations
 - Projects focused on social impact and AI innovation
+- Software Engineering Roles
+- AI Engineering Roles
+
 
 ## Let's Connect
 
