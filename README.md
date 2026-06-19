@@ -70,9 +70,9 @@ The platform assists students in organizing tasks, tracking goals, prioritizing 
 
 **Frontend:** React • Next.js • Tailwind CSS
 
-**Backend & Deployment:** Node.js • Vercel
+**Backend & Deployment: Node.js • Express.js • Vercel • Railway
 
-**AI & Data:** Gemini API • Prompt Engineering • Machine Learning
+**AI & Data: Gemini API • Prompt Engineering • Machine Learning • Supabase
 
 **Tools:** Git • GitHub
 
