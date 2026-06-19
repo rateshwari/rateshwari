@@ -39,7 +39,7 @@ The system features a receptionist dashboard, patient waiting-room display, live
 **Live Demo:**
 
 * Reception Dashboard: https://queue-cure-six.vercel.app/reception
-* Patient Display Dashboard: https://queue-cure-six.vercel.app/dashboard
+* Patient Display Dashboard: https://queue-cure-six.vercel.app/display
 
 **Repository:** https://github.com/rateshwari/queue-cure
 
