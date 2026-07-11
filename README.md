@@ -1,50 +1,57 @@
+
 # <div align="center">Hi, I'm Rateshwari Shakthivel</div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Rateshwari%20Shakthivel&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Rateshwari%20Shakthivel&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Product%20Builder&descAlignY=56"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Systems;Open+Source+Contributor;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&color=A855F7&lines=AI+Engineer;Software+Engineer;Building+AI+Products+for+Real-World+Impact;Full-Stack+Developer;Computer+Vision+%26+Agentic+AI;Always+Learning.+Always+Building."/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6f42c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Navi%20Mumbai,%20India-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Full%20Time%20Roles-7C3AED?style=for-the-badge"/>
 <a href="https://github.com/rateshwari"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
 
 # About
 
-AI & Software Engineering student focused on **AI/ML, Backend Engineering, Full Stack Development, Computer Vision, LLM Applications, Data Engineering, and scalable product development**.
+I am a **Final Year B.Tech student in Artificial Intelligence & Data Science** passionate about building production-ready AI systems, intelligent automation, and scalable full-stack applications.
 
-### Open To
-- Software Engineering Internships
+My work combines **AI Engineering, Backend Systems, Computer Vision, LLM Applications, and Product Engineering** to solve meaningful problems in healthcare, education, community technology, and digital productivity.
+
+## Open To
+
+- Software Engineering Roles
 - AI/ML Engineering
-- Backend Engineering
-- Open Source
+- Graduate Programs
 - Research Collaborations
+- Open Source
 
 ---
 
 # Tech Stack
 
 ### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,sql"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,sql"/>
 
 ### Frontend
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter"/></p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter"/>
 
 ### Backend & Databases
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mysql,postgres,mongodb,supabase"/></p>
 
-### Cloud • DevOps • Tools
-<p><img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,vercel,figma,vscode"/></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mysql,postgres,mongodb,supabase"/>
+
+### Cloud • DevOps • Tooling
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,vercel,figma,vscode"/>
 
 ---
 
@@ -52,78 +59,127 @@ AI & Software Engineering student focused on **AI/ML, Backend Engineering, Full 
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | Advanced | Scikit-Learn, XGBoost |
-| Deep Learning | Advanced | PyTorch, TensorFlow |
-| LLM Applications | Advanced | RAG, Vector DBs, Prompt Engineering |
-| Computer Vision | Advanced | YOLOv8, OpenCV |
-| NLP | Intermediate | Transformers, Embeddings |
-| Data Engineering | Intermediate | Pandas, ETL |
+| LLM Applications | ★★★★★ | Gemini API, Prompt Engineering, RAG |
+| Full Stack | ★★★★★ | Next.js, Express, Supabase |
+| Computer Vision | ★★★★☆ | YOLOv8, OpenCV |
+| Machine Learning | ★★★★☆ | PyTorch, Scikit-Learn |
+| Backend Engineering | ★★★★☆ | FastAPI, REST APIs |
+| UI/UX | ★★★★☆ | Google UX Design |
 
 ---
 
 # Featured Projects
 
-<details>
-<summary><b>MemoryGraph AI</b></summary>
 
-AI-powered digital identity & semantic memory platform.
+<details>
+<summary><b>NayePankh Saathi</b></summary>
+
+AI-powered multilingual NGO assistant.
 
 | Item | Value |
 |---|---|
-| Stack | FastAPI, ChromaDB, Ollama, React |
-| Scale | Enterprise-ready |
-| Performance | Semantic Search |
-| Security | Metadata isolation |
-| Impact | Knowledge Graph |
-| Repository | https://github.com/rateshwari |
+| Stack | Next.js, TypeScript, Gemini API, Tailwind |
+| Scale | Cloud |
+| Performance | Low latency |
+| Security | API isolation |
+| Impact | Social Impact |
+| Repository | https://github.com/rateshwari/nayepankh-saathi |
+
+Designed as a production-focused application emphasizing clean architecture, scalability, and real-world usability.
 
 </details>
 
-<details>
-<summary><b>AI Crime Detection System</b></summary>
 
-Real-time surveillance using Computer Vision.
+<details>
+<summary><b>Queue Cure</b></summary>
+
+Real-time clinic queue platform.
+
+| Item | Value |
+|---|---|
+| Stack | Next.js, Express, Socket.IO, Supabase |
+| Scale | Healthcare |
+| Performance | Realtime |
+| Security | Role-based |
+| Impact | Patient Experience |
+| Repository | https://github.com/rateshwari/queue-cure |
+
+Designed as a production-focused application emphasizing clean architecture, scalability, and real-world usability.
+
+</details>
+
+
+<details>
+<summary><b>MemoryGraph AI</b></summary>
+
+AI knowledge graph and semantic search.
+
+| Item | Value |
+|---|---|
+| Stack | FastAPI, ChromaDB, Ollama |
+| Scale | Enterprise |
+| Performance | Semantic Search |
+| Security | Metadata isolation |
+| Impact | Knowledge Management |
+| Repository | https://github.com/rateshwari |
+
+Designed as a production-focused application emphasizing clean architecture, scalability, and real-world usability.
+
+</details>
+
+
+<details>
+<summary><b>AI Crime Detection</b></summary>
+
+Real-time surveillance AI.
 
 | Item | Value |
 |---|---|
 | Stack | Python, YOLOv8, OpenCV |
 | Scale | Multi-camera |
-| Performance | Real-time |
-| Security | Alert pipeline |
+| Performance | Realtime |
+| Security | Alert Pipeline |
 | Impact | Public Safety |
 | Repository | https://github.com/rateshwari |
 
+Designed as a production-focused application emphasizing clean architecture, scalability, and real-world usability.
+
 </details>
 
-<details>
-<summary><b>NayePankh Saathi</b></summary>
 
-Multilingual AI assistant for NGOs using LLMs.
+<details>
+<summary><b>LifeOS Student Agent</b></summary>
+
+Agentic AI productivity assistant.
 
 | Item | Value |
 |---|---|
-| Stack | Next.js, Gemini, Tailwind |
-| Scale | Cloud |
-| Performance | Low latency |
-| Security | API isolation |
-| Impact | Social Good |
+| Stack | Next.js, AI Agents |
+| Scale | Personal AI |
+| Performance | Adaptive |
+| Security | Secure |
+| Impact | Student Productivity |
 | Repository | https://github.com/rateshwari |
 
+Designed as a production-focused application emphasizing clean architecture, scalability, and real-world usability.
+
 </details>
+
 
 ---
 
 # Experience
 
-### AI & Software Engineering Projects
+### AI Product Developer • Personal Projects
+
 **2024 – Present**
 
-- Built production-style AI systems
-- Full-stack web applications
-- Computer Vision pipelines
-- Retrieval-Augmented Generation
+- Built and deployed AI-powered applications from concept to production.
+- Developed multilingual LLM applications and full-stack healthcare platforms.
+- Built computer vision systems using YOLOv8 and OpenCV.
+- Focused on scalable backend architecture and user-centered product design.
 
-**Skills:** Python • FastAPI • React • AI • SQL
+**Skills:** Python • Next.js • FastAPI • Express • Supabase • AI • Computer Vision
 
 ---
 
@@ -131,34 +187,19 @@ Multilingual AI assistant for NGOs using LLMs.
 
 | Recognition | Details |
 |---|---|
-| Hackathons | Multiple AI hackathons |
-| Portfolio | Production AI projects |
-| Open Source | Active GitHub learning |
+| Google UX Design | Professional Certificate |
+| AI Hackathons | Multiple national hackathons |
+| Social Impact | AI applications for NGOs & healthcare |
+| Portfolio | Production-ready AI & full-stack projects |
 
 ---
 
-# Certifications
 
-### AWS
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-![Oracle](https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle)
-
-### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-### NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blueviolet?style=for-the-badge)
-
----
 
 # Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)     
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](https://codechef.com/)
 
 ---
 
@@ -173,13 +214,7 @@ Multilingual AI assistant for NGOs using LLMs.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rateshwari&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rateshwari&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
 
 ---
 
@@ -190,36 +225,35 @@ Multilingual AI assistant for NGOs using LLMs.
 </p>
 
 ---
+## Contribution Snake
 
-# Contribution Snake
-
-```text
-Configure using:
-Platane/snk GitHub Action
-```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rateshwari/rateshwari/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
 ---
 
 # Current Focus
 
 ```yaml
 Learning:
+  - Agentic AI
   - System Design
-  - Distributed Systems
-  - Advanced AI
+  - MLOps
 
 Building:
   - MemoryGraph AI
+  - LifeOS Student Agent
   - AI Crime Detection
 
 Exploring:
-  - Agentic AI
-  - MLOps
+  - LangGraph
+  - MCP
+  - Multi-Agent Systems
 
 OpenTo:
   - Software Engineering
   - AI Engineering
-  - Open Source
+  - Research
 ```
 
 ---
@@ -227,14 +261,14 @@ OpenTo:
 # Connect
 
 - GitHub: https://github.com/rateshwari
-- LinkedIn: https://linkedin.com/in/
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/
 - Portfolio: https://your-portfolio.vercel.app
+- Email: your-email@example.com
 
 ---
 
-> "Engineering intelligent systems that create measurable real-world impact."
+> *"Building intelligent software that transforms ideas into real-world impact through AI, scalable engineering, and thoughtful product design."*
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=6f42c1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,12,20,24"/>
 </p>
