@@ -263,7 +263,7 @@ OpenTo:
 - GitHub: https://github.com/rateshwari
 - LinkedIn: https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/
 - Portfolio: https://your-portfolio.vercel.app
-- Email: your-email@example.com
+- Email: rateshwaris@gmail.com
 
 ---
 
