@@ -1,109 +1,240 @@
-# Hi, I'm Rateshwari Shakthivel
+# <div align="center">Hi, I'm Rateshwari Shakthivel</div>
 
-Final Year B.Tech Student in Artificial Intelligence & Data Science based in Navi Mumbai, India.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6f42c1&text=Rateshwari%20Shakthivel&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
+</p>
 
-I enjoy building AI-powered products and full-stack applications that solve real-world problems, improve everyday experiences, and create meaningful social impact.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Production+Ready+AI+Systems;Open+Source+Contributor;Always+Learning+Always+Building"/>
+</p>
 
-
-## What I'm Passionate About
-
-- Building AI products that create meaningful social impact.
-- Designing intuitive user experiences.
-- Transforming ideas into deployable applications.
-- Exploring Agentic AI and production-grade systems.
-
-## Featured Projects
-
-### NayePankh Saathi
-
-An AI-powered multilingual community support chatbot built for NayePankh Foundation to help underserved communities access information related to scholarships, food assistance, women's health, and donation guidance.
-
-The application was independently designed, developed, and deployed as a production-ready web solution using modern full-stack technologies, with support for multilingual interactions and domain-specific assistance.
-
-**Live Demo:** https://nayepankh-saathi.vercel.app/
-
-**Repository:** https://github.com/rateshwari/nayepankh-saathi
-
-**Technologies:** Next.js, TypeScript, Tailwind CSS, Gemini API, Vercel
+<p align="center">
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-5B21B6?style=for-the-badge"/>
+<a href="https://github.com/rateshwari"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+</p>
 
 ---
 
-### 🏥 Queue Cure
+# About
 
-A real-time digital clinic queue management system designed to improve patient transparency and streamline reception workflows in neighborhood clinics.
+AI & Software Engineering student focused on **AI/ML, Backend Engineering, Full Stack Development, Computer Vision, LLM Applications, Data Engineering, and scalable product development**.
 
-Queue Cure replaces traditional paper token systems with synchronized digital experiences for both receptionists and patients. The platform provides live queue updates, digital token management, estimated waiting times, and real-time display synchronization using Socket.IO.
-
-The system features a receptionist dashboard, patient waiting-room display, live queue synchronization, and configurable consultation times to improve operational efficiency and reduce patient uncertainty.
-
-**Live Demo:**
-
-* Reception Dashboard: https://queue-cure-six.vercel.app/reception
-* Patient Display Dashboard: https://queue-cure-six.vercel.app/display
-
-**Repository:** https://github.com/rateshwari/queue-cure
-
-**Status:** Live Full-Stack Application
-
-**Technologies:** Next.js, TypeScript, Express.js, Socket.IO, Supabase, Tailwind CSS
-
-**Focus Areas:** Real-Time Systems, Healthcare Technology, Full-Stack Development, User-Centered Design
-
----
-
-### LifeOS Student Agent
-
-An AI-powered student productivity assistant built to help learners manage academic responsibilities more effectively.
-
-The platform assists students in organizing tasks, tracking goals, prioritizing activities, and improving productivity through intelligent recommendations and personalized support.
-
-**Status:** In Development
-
-**Focus Areas:** Productivity, Agentic AI, Student Experience
-
-
-## Tech Stack
-
-**Languages:** Python • JavaScript • TypeScript
-
-**Frontend:** React • Next.js • Tailwind CSS
-
-**Backend & Deployment:** Node.js • Express.js • Vercel • Railway
-
-**AI & Data:** Gemini API • Prompt Engineering • Machine Learning • Supabase
-
-**Tools:** Git • GitHub
-
-
-## Currently Exploring
-
-* Agentic AI Systems
-* Applied Generative AI
-* Real-Time Full-Stack Applications
-* Healthcare Technology Solutions
-* Scalable System Design
-
-## Open To Opportunities
-
-I am currently open to:
-
-- Full-Time Graduate Roles
-- Internship Opportunities
+### Open To
+- Software Engineering Internships
+- AI/ML Engineering
+- Backend Engineering
+- Open Source
 - Research Collaborations
-- Projects focused on social impact and AI innovation
-- Software Engineering Roles
-- AI Engineering Roles
 
+---
 
-## Let's Connect
+# Tech Stack
 
- GitHub: https://github.com/rateshwari
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,sql"/>
+</p>
 
-LinkedIn: https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter"/></p>
 
+### Backend & Databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mysql,postgres,mongodb,supabase"/></p>
 
-I'm always excited to connect with people who are passionate about technology, innovation, and creating meaningful impact through AI.
+### Cloud • DevOps • Tools
+<p><img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,vercel,figma,vscode"/></p>
 
-If you'd like to collaborate, discuss ideas, or simply connect, feel free to reach out.
+---
 
-Let's build something that matters.
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | Advanced | Scikit-Learn, XGBoost |
+| Deep Learning | Advanced | PyTorch, TensorFlow |
+| LLM Applications | Advanced | RAG, Vector DBs, Prompt Engineering |
+| Computer Vision | Advanced | YOLOv8, OpenCV |
+| NLP | Intermediate | Transformers, Embeddings |
+| Data Engineering | Intermediate | Pandas, ETL |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>MemoryGraph AI</b></summary>
+
+AI-powered digital identity & semantic memory platform.
+
+| Item | Value |
+|---|---|
+| Stack | FastAPI, ChromaDB, Ollama, React |
+| Scale | Enterprise-ready |
+| Performance | Semantic Search |
+| Security | Metadata isolation |
+| Impact | Knowledge Graph |
+| Repository | https://github.com/rateshwari |
+
+</details>
+
+<details>
+<summary><b>AI Crime Detection System</b></summary>
+
+Real-time surveillance using Computer Vision.
+
+| Item | Value |
+|---|---|
+| Stack | Python, YOLOv8, OpenCV |
+| Scale | Multi-camera |
+| Performance | Real-time |
+| Security | Alert pipeline |
+| Impact | Public Safety |
+| Repository | https://github.com/rateshwari |
+
+</details>
+
+<details>
+<summary><b>NayePankh Saathi</b></summary>
+
+Multilingual AI assistant for NGOs using LLMs.
+
+| Item | Value |
+|---|---|
+| Stack | Next.js, Gemini, Tailwind |
+| Scale | Cloud |
+| Performance | Low latency |
+| Security | API isolation |
+| Impact | Social Good |
+| Repository | https://github.com/rateshwari |
+
+</details>
+
+---
+
+# Experience
+
+### AI & Software Engineering Projects
+**2024 – Present**
+
+- Built production-style AI systems
+- Full-stack web applications
+- Computer Vision pipelines
+- Retrieval-Augmented Generation
+
+**Skills:** Python • FastAPI • React • AI • SQL
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|---|---|
+| Hackathons | Multiple AI hackathons |
+| Portfolio | Production AI projects |
+| Open Source | Active GitHub learning |
+
+---
+
+# Certifications
+
+### AWS
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
+
+### Oracle
+![Oracle](https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle)
+
+### Cisco
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+
+### NPTEL
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blueviolet?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](https://codechef.com/)
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rateshwari&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rateshwari&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rateshwari&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rateshwari&theme=algolia&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rateshwari&theme=tokyo-night"/>
+</p>
+
+---
+
+# Contribution Snake
+
+```text
+Configure using:
+Platane/snk GitHub Action
+```
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - Distributed Systems
+  - Advanced AI
+
+Building:
+  - MemoryGraph AI
+  - AI Crime Detection
+
+Exploring:
+  - Agentic AI
+  - MLOps
+
+OpenTo:
+  - Software Engineering
+  - AI Engineering
+  - Open Source
+```
+
+---
+
+# Connect
+
+- GitHub: https://github.com/rateshwari
+- LinkedIn: https://linkedin.com/in/
+- Email: your-email@example.com
+- Portfolio: https://your-portfolio.vercel.app
+
+---
+
+> "Engineering intelligent systems that create measurable real-world impact."
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=6f42c1"/>
+</p>
