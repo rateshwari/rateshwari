@@ -203,20 +203,6 @@ Designed as a production-focused application emphasizing clean architecture, sca
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rateshwari&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rateshwari&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rateshwari&layout=compact&theme=tokyonight"/>
-</p>
-
-
-
----
 
 # Contribution Activity
 
