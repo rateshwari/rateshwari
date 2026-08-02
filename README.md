@@ -2,7 +2,7 @@
 # <div align="center">Hi, I'm Rateshwari Shakthivel</div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Rateshwari%20Shakthivel&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Product%20Builder&descAlignY=56"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=%20&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Product%20Builder&descAlignY=56"/>
 </p>
 
 <p align="center">
