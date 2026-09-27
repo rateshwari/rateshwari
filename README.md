@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="./terminal-profile.svg" alt="Rateshwari terminal profile" width="100%">
+</p>
 
+<p align="center">
+  <strong>AI Engineer · Data Science · LLM Systems · Full-Stack Engineering</strong>
+</p>
 # <div align="center">Hi, I'm Rateshwari Shakthivel</div>
 
 <p align="center">
