@@ -2,9 +2,6 @@
   <img src="./terminal-profile.svg" alt="Rateshwari terminal profile" width="100%">
 </p>
 
-<p align="center">
-  <strong>AI Engineer · Data Science · LLM Systems · Full-Stack Engineering</strong>
-</p>
 
 ---
 
