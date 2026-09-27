@@ -5,23 +5,6 @@
 <p align="center">
   <strong>AI Engineer · Data Science · LLM Systems · Full-Stack Engineering</strong>
 </p>
-# <div align="center">Hi, I'm Rateshwari Shakthivel</div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=%20&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Product%20Builder&descAlignY=56"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&color=A855F7&lines=AI+Engineer;Software+Engineer;Building+AI+Products+for+Real-World+Impact;Full-Stack+Developer;Computer+Vision+%26+Agentic+AI;Always+Learning.+Always+Building."/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Navi%20Mumbai,%20India-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Full%20Time%20Roles-7C3AED?style=for-the-badge"/>
-<a href="https://github.com/rateshwari"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/rateshwari-shakthivel-1064a3207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-</p>
 
 ---
 
